@@ -12,11 +12,11 @@ spec:
     acls:
       - resource:
           type: topic
-          name: test1
+          name: test
           patternType: literal
         operation: All
       - resource:
           type: topic
-          name: test-one-rep1
+          name: test-one-rep
           patternType: literal
         operation: All
